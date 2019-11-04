@@ -4,6 +4,7 @@ This script is designed to demonstrate how to utilize MD5 Digest Authentication 
 It demonstrates the process of calling the server to obtain the digest, retrieving and storing the server response, parsing the response in order to create the client request (with the calculated response value), and issuing the authenticated request to the server.
 
  Relevant RFCs:
+
 	RFC 2069: An Extension to HTTP: Digest Access Authentication
 	https://tools.ietf.org/html/rfc2617
 
@@ -11,6 +12,7 @@ It demonstrates the process of calling the server to obtain the digest, retrievi
 	https://tools.ietf.org/html/rfc2617
 
  Further reading:
+
 	Code Project: Digest Calculator
 	https://www.codeproject.com/Articles/30403/Digest-Calculator
 
